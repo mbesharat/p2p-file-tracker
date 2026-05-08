@@ -65,11 +65,11 @@ make
 
 ### Run
 
-Start one or more servers (each on a different port):
+Start one or more servers:
 
 ```bash
 ./server 224.0.0.1 1818
-./server 224.0.0.1 1820
+./server 224.0.0.1 1818
 ```
 
 Start one or more clients, each pointing at a directory of files to share:
